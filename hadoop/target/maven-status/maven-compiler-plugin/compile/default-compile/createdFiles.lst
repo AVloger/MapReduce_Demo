@@ -1,0 +1,3 @@
+com\demo\WordCountMapper.class
+com\demo\WordCountRunner.class
+com\demo\WordCountReducer.class
